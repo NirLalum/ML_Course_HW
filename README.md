@@ -14,3 +14,6 @@ Implementation of a decision tree regressor for predicting the number of rented 
 
 ## hw3:
 finding the distributions of data (the results of a marathon) using non parametric/parametric generative methods.
+
+## hw4:
+classifying digits from 0-9 using K-NN, LDA and Linear Logistic Regression
